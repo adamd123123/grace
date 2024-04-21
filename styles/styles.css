@@ -1,0 +1,48 @@
+p{
+    font-weight: bold;
+    font-size: 30px;
+}
+
+#top{
+    text-decoration: underline;
+    
+}
+
+.emphasizedText{
+    font-style: italic;
+    color:rgb(15, 15, 197);
+}
+
+a{
+    color:rgb(0, 150, 214);
+}
+
+a:hover{
+    color:rgb(230, 146, 1);
+}
+
+a:visited{
+    color:rgb(111, 111, 157);
+}
+
+body{
+    background-color:beige;
+    font-family:'Courier New', Courier, monospace;
+    text-align: center;
+    border: 10px solid black;
+    margin: 20px
+
+}
+
+ul{
+    list-style-position:inside;
+    text-align: center;
+}
+
+ol{
+    list-style-position: inside; 
+    text-align: center;
+}
+
+/* 1. How to change the colors of hyperlinks
+2. How to open hyperlinks in a new tab, instead of same page  */

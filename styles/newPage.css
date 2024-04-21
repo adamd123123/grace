@@ -1,0 +1,57 @@
+.header{
+    background-color: Black;
+    color: white;
+    height: 100px;
+    line-height: 100px;
+}
+
+.mainbody{
+    background-color: rgb(255, 255, 255);
+
+}
+.footer{
+    background-color: rgb(169, 169, 171);
+    height: 25px;
+    bottom: 0px;
+    position: fixed;
+    left: 5px;
+    right: 5px;
+    Padding-top: 15px;
+    font-size: 10px;
+
+
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+}
+
+.common{
+    text-align: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+nav{
+    background-color: lightgray;
+    padding:10px;
+    overflow: hidden;
+}
+
+nav a{
+    float: left;
+    padding: 10px 13px;
+    text-decoration: none;
+    color: #333;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+nav a:hover{
+    background-color: #b8d2eb;
+    
+
+
+}
